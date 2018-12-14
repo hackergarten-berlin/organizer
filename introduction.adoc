@@ -13,6 +13,17 @@
 * Meet interesting people
 * Have fun
 
+== What is the agenda of Hackergarten Berlin
+
+* 18:30 short introduction to hackergarten for newbies (optional)
+** create a github account, make a contribution, search for ideas
+** at the end you are able to contribute something on github :-)
+* 19:15 pitching ideas and building groups
+* 19:30 start hacking 
+* 21:30 eating pizza and socialising
+* 22:00 demo of achievements (if wanted)
+* 22:30 going home 
+
 == What are good ideas?
 
 * possible to solve in 3 hours
@@ -21,7 +32,7 @@
 
 == What are not so good ideas?
 
-* ideas which can not be solved in 3 hours
+* ideas which can not be solved in 3 hours (writing a new Operating System)
 
 == How do you find good ideas?
 
