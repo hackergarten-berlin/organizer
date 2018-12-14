@@ -1,4 +1,7 @@
 # organizer
-Collecting things for organising hackergarten berlin
+Collecting things for organising https://www.meetup.com/de-DE/Hackergarten-Berlin/[hackergarten berlin]
 
+* https://github.com/hackergarten-berlin/organizer/blob/master/introduction.adoc[introduction] - general information
+* https://github.com/hackergarten-berlin/organizer/blob/master/topics.adoc[topics] - collection of ideas where can we work on
+* https://github.com/hackergarten-berlin/organizer/blob/master/members.adoc[members] - list of members (:-))
 
