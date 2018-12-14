@@ -1,1 +1,27 @@
-= What is hackergarten
+= What is hackergarten?
+
+== What are the goals of a hackergarten?
+
+* Make a contribute - 
+** Pullrequests
+** Writing documentation
+** Answering questions
+* Learn something
+* Meet interesting people
+* Have fun
+
+== What are good ideas?
+
+* possible to solve in 3 hours
+* allows people to contribute alhough if they are not experts in the area
+* cover topics people are interested in 
+
+== How do I find good ideas?
+
+* Bugs or features from your own OpensSource-project
+* Bugs or features from OpenSource-libraries you are using
+* Issues you find reading the issues-list in github
+
+== Who can join?
+
+* everybody with a computer, yes we want to contribute
