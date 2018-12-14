@@ -1,0 +1,7 @@
+= Members
+
+A list of hackergarten berlin members
+
+* https://github.com/JoergM[JoergM]
+* https://github.com/obfischer[Obfischer]
+* https://github.com/ehmkah/[ehmkah]
