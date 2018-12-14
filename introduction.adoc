@@ -1,5 +1,8 @@
 = What is hackergarten?
 
+* founded by Andres Almiray in Basel Switzerland
+* takes place in different cities and conferences around the world
+
 == What are the goals of a hackergarten?
 
 * Make a contribute - 
@@ -16,7 +19,11 @@
 * allows people to contribute alhough if they are not experts in the area
 * cover topics people are interested in 
 
-== How do I find good ideas?
+== What are not so good ideas?
+
+* ideas which can not be solved in 3 hours
+
+== How do you find good ideas?
 
 * Bugs or features from your own OpensSource-project
 * Bugs or features from OpenSource-libraries you are using
