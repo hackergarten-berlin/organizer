@@ -1,0 +1,6 @@
+= Topics
+
+* Collecting issues what to work on
+
+** https://github.com/asciidoctor/asciidoctor-intellij-plugin/issues[Asciidoctor IntelliJ Plugin]
+*** nothing special
