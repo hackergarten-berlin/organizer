@@ -5,7 +5,7 @@
 
 == What are the goals of a hackergarten?
 
-* Make a contribute - 
+* Make a contribute
 ** Pullrequests
 ** Writing documentation
 ** Answering questions
