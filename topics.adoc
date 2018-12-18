@@ -4,3 +4,10 @@
 
 ** https://github.com/asciidoctor/asciidoctor-intellij-plugin/issues[Asciidoctor IntelliJ Plugin]
 *** nothing special
+
+= Inspirations
+
+
+* On the http://hackergarten.net/ there is a section that lists github issues taged with #hackergarten.
+* Search for 'good first issue' tag on github.
+* Use and contribute to https://github.com/trasiercom/trasier-client :-)
