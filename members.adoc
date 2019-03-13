@@ -6,3 +6,4 @@ A list of hackergarten berlin members
 * https://github.com/obfischer[Obfischer]
 * https://github.com/ehmkah/[ehmkah]
 * https://github.com/Farbauti89[Farbauti89]
+* https://github.com/doc-hil[doc-hil]
