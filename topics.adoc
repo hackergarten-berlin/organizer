@@ -5,6 +5,8 @@
 ** https://github.com/asciidoctor/asciidoctor-intellij-plugin/issues[Asciidoctor IntelliJ Plugin]
 *** nothing special
 
+*Alternatively just open an issue on this repository. Ideally you can link the original issue there.*
+
 = Inspirations
 
 * On the http://hackergarten.net/ there is a section that lists github issues taged with #hackergarten.
