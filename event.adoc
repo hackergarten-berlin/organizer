@@ -1,22 +1,22 @@
-Welcome to our first Hackergarten in Berlin. 
+Welcome to Hackergarten Berlin. 
 
-If you don't know what a Hackergarten is, just bring your laptop and be there at 18:00. 
-We will give a short introduction what Hackergarten is and show you how to contribute on github.
-Some Hackergarten ideas can be found here https://github.com/hackergarten-berlin/organizer/blob/master/introduction.adoc and there http://hackergarten.net
-
-Maybe you already know what a Hackergarten is, just bring your laptop and some good ideas and be there at 19:00.
-For us good ideas are issues which can be solved in three hours, allow people to contribute although they are no experts and can be explained in two minutes.
+Most important: 
+Take your computer with you. 
+Chips and drinks are provided.
 
 We prepared the following agenda. 
 
-19:15 pitching ideas and building groups (
+18:30 warm-up - introduction for Hackergarten-newbies
+18:35 participation introduction
+18:40 brainstorming and collecting ideas what to hack on
 
-19:30 start hacking
-
-21:30 eating pizza and socialising
-
-22:00 demo of achievements (if wanted)
+19:00 build groups
+19:10 start hacking
+21:45 demo of achievements
 
 22:30 going home
 
-We are happy to see you soon. :-)
+If you don’t know what a Hackergarten is, we will explain it at 18:30. 
+If you are unpatient you find information here https://github.com/hackergarten-berlin/organizer/blob/master/introduction.adoc and here http://hackergarten.net
+
+We are happy to see you soon and do not forget your computer :-)
