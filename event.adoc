@@ -17,6 +17,6 @@ We prepared the following agenda.
 22:30 going home
 
 If you don’t know what a Hackergarten is, we will explain it at 18:30. 
-If you are unpatient you find information here introduction.adoc and here http://hackergarten.net
+If you are unpatient you find information link:introduction.adoc[here]  and link:http://hackergarten.net[here]
 
 We are happy to see you soon and do not forget your computer :-)
