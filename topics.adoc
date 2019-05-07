@@ -3,7 +3,7 @@
 * Collecting issues what to work on
 
 ** https://github.com/asciidoctor/asciidoctor-intellij-plugin/issues[Asciidoctor IntelliJ Plugin]
-*** nothing special
+*** https://github.com/asciidoctor/asciidoctor-browser-extension/issues/254
 
 *Alternatively just open an issue on this repository. Ideally you can link the original issue there.*
 
