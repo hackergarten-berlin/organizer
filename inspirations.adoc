@@ -1,0 +1,31 @@
+= Inspirations
+
+* On the http://hackergarten.net/ there is a section that lists github issues taged with #hackergarten.
+
+== Websites explaining the process and providing links
+
+* https://www.firsttimersonly.com/
+* http://yourfirstpr.github.io/
+* https://opensource.guide/how-to-contribute/
+
+== Github Awesome List for beginners
+
+* https://github.com/mungell/awesome-for-beginners
+
+== Websites that search Github-Issues
+
+For example to search for 'good first issue' or 'Help Wanted' tag on github.
+
+* http://github-help-wanted.com/
+* https://up-for-grabs.net/
+* http://issuehub.io/
+
+== Feeling lucky?
+
+* https://www.codetriage.com/
+* http://www.pullrequestroulette.com/
+
+== Special events 
+
+* https://hacktoberfest.digitalocean.com/
+* https://24pullrequests.com/ 
