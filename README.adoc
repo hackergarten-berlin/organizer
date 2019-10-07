@@ -4,5 +4,6 @@ Collecting things for organising https://www.meetup.com/de-DE/Hackergarten-Berli
 
 * https://github.com/hackergarten-berlin/organizer/blob/master/introduction.adoc[introduction] - general information
 * https://github.com/hackergarten-berlin/organizer/blob/master/topics.adoc[topics] - collection of ideas where can we work on
+* https://github.com/hackergarten-berlin/organizer/blob/master/inspirations.adoc[inspirations] - sources to get inspirations for what to work on
 * https://github.com/hackergarten-berlin/organizer/blob/master/members.adoc[members] - list of members (:-))
 
