@@ -20,6 +20,19 @@ For example to search for 'good first issue' or 'Help Wanted' tag on github.
 * https://up-for-grabs.net/
 * http://issuehub.io/
 
+== Search using Github Search 
+
+As an alternative to the above mentioned sites you can use the Github Search directly. 
+
+Searching help wanted issues for java would look like this:
+
+....
+language:java state:open label:help-wanted
+....
+
+To combine multiple labels just add them as an additional label: entry. 
+More info on the search syntax here: https://help.github.com/en/articles/understanding-the-search-syntax
+
 == Feeling lucky?
 
 * https://www.codetriage.com/
