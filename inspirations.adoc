@@ -30,6 +30,8 @@ Searching help wanted issues for java would look like this:
 language:java state:open label:help-wanted
 ....
 
+or if you are lazy just click on https://github.com/search?q=language%3Ajava+state%3Aopen+label%3Ahelp-wanted
+
 To combine multiple labels just add them as an additional label: entry. 
 More info on the search syntax here: https://help.github.com/en/articles/understanding-the-search-syntax
 
