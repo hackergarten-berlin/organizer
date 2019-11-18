@@ -1,4 +1,4 @@
-= Hackergarten
+= Space-Request Hackergarten
 
 == Was ist der Hackergarten Berlin? 
 * https://www.meetup.com/de-DE/Hackergarten-Berlin/
