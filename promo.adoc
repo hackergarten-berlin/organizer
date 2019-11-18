@@ -1,0 +1,21 @@
+= Hackergarten
+
+== Was ist der Hackergarten Berlin? 
+* https://www.meetup.com/de-DE/Hackergarten-Berlin/
+* Ziel: contributions to Open Source Projekten
+** Pull-Requests, Documentation, Lernen, Interessante Leute treffen
+* findet zwei-monatlich statt
+* Anzahl Mitglieder der Meetupgruppe: 171
+* Anzahl Teilnehmer eines Meetups: ca: 10
+
+== Wir wünschen uns 
+
+* Raum mit etwa 20 Plätzen
+* Öffentliches WLAN
+* Beamer
+* mindestens drei Veranstaltungen sollten an einem Ort durchgeführt werden können
+
+== Wir bringen mit
+
+* Getränke und Chips
+* Teilnehmer 
