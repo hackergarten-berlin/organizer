@@ -9,6 +9,9 @@ There are two alternatives to propose a topic:
 
 == Proposed topics
 
+* next event
+** https://github.com/kvesteri/validators/issues/136 (python small fix for validators)
+
 * 2019-10-09
 
 ** https://github.com/asciidoctor/asciidoctor-intellij-plugin/issues[Asciidoctor IntelliJ Plugin]
