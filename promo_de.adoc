@@ -5,7 +5,7 @@
 * Ziel: contributions to Open Source Projekten
 ** Pull-Requests, Documentation, Lernen, Interessante Leute treffen
 * findet zwei-monatlich statt
-* Anzahl Mitglieder der Meetupgruppe: 171
+* Anzahl Mitglieder der Meetupgruppe: ca: 180
 * Anzahl Teilnehmer eines Meetups: ca: 10
 
 == Wir wünschen uns 
